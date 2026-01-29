@@ -1,16 +1,30 @@
-## Hi there 👋
+Olá, me chamo **Nivaldo Filho**, tenho 19 anos e sou estudante de **Ciência de Dados na Universidade Federal do Ceará (UFC)**.  
+Fique à vontade para explorar meus projetos aqui no GitHub, onde demonstro minhas habilidades em **Machine Learning, Inteligência Artificial, Banco de Dados, Mineração de Dados e Análise Estatística**.
 
-<!--
-**Nivaldocastro/Nivaldocastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🎓 Formação Acadêmica
+-  Graduação em Ciência de Dados – Universidade Federal do Ceará (UFC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Áreas de Interesse
+- 🤖 Machine Learning e Inteligência Artificial  
+- 📊 Ciência de Dados e Análise Estatística  
+- 🗄️ Banco de Dados e SQL  
+- 📉 Mineração de Dados
+  
+---
+
+## 💻 Tecnologias e Ferramentas
+- **Linguagens:** Python, SQL, RStudio 
+- **Bibliotecas principais:** Pandas, NumPy, Matplotlib, Scikit-learn  
+- **Ferramentas:** Git, GitHub, VS Code, RStudio, PyCharm 
+- **Outros:** Análise de Dados, Estatística, Machine Learning  
+
+---
+
+## 📫 Contato
+- GitHub: https://github.com/Nivaldocastro  
+- LinkedIn: https://www.linkedin.com/in/nivaldo-filho/  
+- Email: nivaldocastrofilho@gmail.com  
