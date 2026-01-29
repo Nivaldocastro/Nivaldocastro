@@ -1,5 +1,4 @@
-Olá, me chamo **Nivaldo Filho**, tenho 19 anos e sou estudante de **Ciência de Dados na Universidade Federal do Ceará (UFC)**.  
-Fique à vontade para explorar meus projetos aqui no GitHub, onde demonstro minhas habilidades em **Machine Learning, Inteligência Artificial, Banco de Dados, Mineração de Dados e Análise Estatística**.
+Olá, me chamo **Nivaldo Filho**, tenho 19 anos e sou estudante de **Ciência de Dados na Universidade Federal do Ceará (UFC)**. Fique à vontade para explorar meus projetos aqui no GitHub, onde demonstro minhas habilidades em **Machine Learning, Inteligência Artificial, Banco de Dados, Mineração de Dados e Análise Estatística**.
 
 ---
 
