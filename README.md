@@ -8,10 +8,10 @@ Olá, me chamo **Nivaldo Filho**, tenho 19 anos e sou estudante de **Ciência de
 ---
 
 ## 🧠 Áreas de Interesse
-- 🤖 Machine Learning e Inteligência Artificial  
-- 📊 Ciência de Dados e Análise Estatística  
-- 🗄️ Banco de Dados e SQL  
-- 📉 Mineração de Dados
+- Machine Learning e Inteligência Artificial  
+- Ciência de Dados e Análise Estatística  
+- Banco de Dados e SQL  
+- Mineração de Dados
   
 ---
 
