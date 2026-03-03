@@ -11,7 +11,7 @@ Olá, me chamo **Nivaldo Filho**, tenho 19 anos e sou estudante de **Ciência de
 - Machine Learning e Inteligência Artificial  
 - Ciência de Dados e Análise Estatística  
 - Banco de Dados e SQL  
-- Mineração de Dados
+- Classificação de imagens
   
 ---
 
