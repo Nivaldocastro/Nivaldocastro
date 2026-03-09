@@ -11,7 +11,7 @@ Olá, me chamo **Nivaldo Filho**, tenho 19 anos e sou estudante de **Ciência de
 
 - 🔗 [BrainTumorClassifier](https://github.com/Nivaldocastro/Brain_Tumor_Detection)
 - 🔗 [Car Evaluation Cluster Analysis](https://github.com/Nivaldocastro/Car_Evaluation)
-- 🔗 [Car Price Regression Analysis]([https://github.com/Nivaldocastro/CarPrice_Assignment)
+- 🔗 [Car Price Regression Analysis](https://github.com/Nivaldocastro/CarPrice_Assignment)
 
 
 ---
